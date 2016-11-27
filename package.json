@@ -1,0 +1,10 @@
+{
+    "name": "ex6-li-karwin",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "KarwinMac",
+    "contributors": [],
+    "dependencies": {}, "scripts":{
+"start":"node main.js 2.js"}
+
+}
